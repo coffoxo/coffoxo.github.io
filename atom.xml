@@ -6,7 +6,7 @@
   <link href="http://coffox.us.kg/atom.xml" rel="self"/>
   
   <link href="http://coffox.us.kg/"/>
-  <updated>2024-12-16T17:21:27.252Z</updated>
+  <updated>2024-12-16T22:47:01.696Z</updated>
   <id>http://coffox.us.kg/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>every first</title>
+    <link href="http://coffox.us.kg/posts/63dda5cb.html"/>
+    <id>http://coffox.us.kg/posts/63dda5cb.html</id>
+    <published>2024-12-16T22:27:53.000Z</published>
+    <updated>2024-12-16T22:47:01.696Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试Hexo-Pro"><a href="#测试Hexo-Pro" class="headerlink" title="测试Hexo Pro"></a><strong>测试Hexo Pro</strong></h1><ul><li>支持创建编写博客</li><li>支持创建编写页面</li><li>支持图片粘贴上传</li><li>支持post、page的front-matter编辑</li><li>支持文章的全局搜索</li><li>暗黑模式体验</li><li>国际化</li></ul><p>这个插件其实是采用前后端分离的方式编写的，这个插件在hexo的server当中添加了中间件，其实是作为后端，代理前端打包的静态文件，静态文件存放在www文件夹当中。 客户端的代码请看另外一个仓库: <a href="https://github.com/wuzheng228/hexo-pro-client">https://github.com/wuzheng228/hexo-pro-client</a></p><h1 id="功能更新时间线"><a href="#功能更新时间线" class="headerlink" title="功能更新时间线"></a><em>功能更新时间线</em></h1><p><a href="https://github.com/wuzheng228/hexo-pro#%E5%8A%9F%E8%83%BD%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4%E7%BA%BF"></a></p><p>↑ 识别错误的链接</p><table><thead><tr><th>日期</th><th>版本</th><th>更新内容</th></tr></thead><tbody><tr><td>2024-08-29</td><td>v1.1.16</td><td>- 优化编辑器- 优化暗黑模式- 新增全局搜索优化图片上传，支持批量上传</td></tr><tr><td>2024-11-05</td><td>v1.1.17</td><td>- 支持普通文本tab键增加空格shift+tab键减少空格</td></tr></tbody></table><p>表格能够正确读取 格式正确 CSS木有</p><blockquote><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">The licenses for most software and other practical works are designed</span><br><span class="line">to take away your freedom to share and change the works.  By contrast,</span><br><span class="line">the GNU General Public License is intended to guarantee your freedom to</span><br><span class="line">share and change all versions of a program--to make sure it remains free</span><br><span class="line">software for all its users.  We, the Free Software Foundation, use the</span><br><span class="line">GNU General Public License for most of our software; it applies also to</span><br><span class="line">any other work released this way by its authors.  You can apply it to</span><br><span class="line">your programs, too.</span><br></pre></td></tr></tbody></table></figure></blockquote><p>引用的样式估计要去全局调整了 现在有点憨包</p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo</span><br><span class="line">cd \x7e/</span><br><span class="line">hexo init my-blog</span><br><span class="line">cd my-blog</span><br><span class="line">npm install</span><br></pre></td></tr></tbody></table></figure><p>代码块有点不能正常读取 输入也会吃内容 能修正 稍显不丝滑</p><p><img src="/images/wall%20(1).webp-8dea69e0-fd90-41b6-aebc-54eb9c26058d-1734388246928.png" alt="alt text"></p><p>图片插入正常 裁剪对齐未知</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试Hexo-Pro&quot;&gt;&lt;a href=&quot;#测试Hexo-Pro&quot; class=&quot;headerlink&quot; title=&quot;测试Hexo Pro&quot;&gt;&lt;/a&gt;&lt;strong&gt;测试Hexo Pro&lt;/strong&gt;&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;支持创建编写博客&lt;/li&gt;
+&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
